@@ -1,0 +1,15 @@
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (1, '2016-07-14', 'apartment');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (2, '2014-01-22', 'apartment');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (3, '2019-01-14', 'dorm');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (4, '2013-11-14', 'bar');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (5, '2018-07-08', 'house');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (6, '2017-08-27', 'house');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (7, '2017-11-08', 'bar');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (8, '2015-03-11', 'house');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (9, '2020-01-26', 'car');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (10, '2015-08-09', 'apartment');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (11, '2011-10-09', 'dorm');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (12, '2014-06-23', 'car');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (13, '2015-09-29', 'apartment');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (14, '2019-06-21', 'car');
+insert into suspect_information (nature_of_assault_id, assault_date, location) values (15, '2013-11-25', 'dorm');

@@ -1,0 +1,15 @@
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (1, '2017-03-26', 'F', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (2, '2020-06-12', 'M', false);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (3, '2014-12-31', 'M', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (4, '2012-02-06', 'M', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (5, '2019-09-29', 'M', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (6, '2015-01-17', 'F', false);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (7, '2010-11-09', 'M', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (8, '2015-04-03', 'M', false);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (9, '2012-07-29', 'M', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (10, '2011-05-30', 'Other', false);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (11, '2014-07-13', 'M', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (12, '2014-07-22', 'F', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (13, '2016-02-06', 'M', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (14, '2019-09-10', 'M', true);
+insert into sexual_history (sexual_history_id, date, partner_gender, contraceptive_barrier_used) values (15, '2020-04-10', 'M', false);
